@@ -1,0 +1,10 @@
+# 실제 환경 설정 값 (키 포함). 커밋 금지.
+# 로컬에서는 직접 만든 config.js, Vercel 에서는 generate-config.js 가 빌드 시 생성.
+config.js
+
+# Vercel CLI 로컬 산출물
+.vercel
+
+# OS / 에디터 부산물
+.DS_Store
+Thumbs.db
