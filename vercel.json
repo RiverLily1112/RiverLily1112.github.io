@@ -1,5 +1,6 @@
 {
   "buildCommand": "node generate-config.js",
+  "installCommand": "echo no-deps",
   "outputDirectory": ".",
   "cleanUrls": true,
   "framework": null
